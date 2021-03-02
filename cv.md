@@ -30,5 +30,5 @@ __Ability to work in a team, attentiveness to details, the ability to listen and
     Self-education through training on resources on the Internet
 
 ### English
-    Intermediate
-    Read technical documentation and continue to improve my conversational skills
+***Intermediate  
+    Read technical documentation and continue to improve my conversational skills***
