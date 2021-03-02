@@ -21,7 +21,7 @@
     Git (local repository) is used to store the project
 
 ### Soft Skills 
-    Ability to work in a team, attentiveness to details, the ability to listen and clearly express my thoughts
+__Ability to work in a team, attentiveness to details, the ability to listen and clearly express my thoughts__
 
 ### Experience 
     Pet project listed above
