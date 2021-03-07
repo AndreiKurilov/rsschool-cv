@@ -61,3 +61,7 @@ footer  img
 section {
   margin-bottom: 30px;
 }
+p a {
+  font-weight: 600;
+  font-style: italic;
+}
