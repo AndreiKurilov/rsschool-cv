@@ -14,11 +14,11 @@
                                                                                                           
 ### Hard Skills    
     I am currently coding the layout of the hotel room search pages using HTML, CSS, JavaScript:
-    use Webpack to build the project
-    layout is performed in accordance with the BEM methodology
-    use Pug, SCSS preprocessors
-    work in the VS Code editor
-    Git (local repository) is used to store the project
+    use Webpack to build the project;
+    layout is performed in accordance with the BEM methodology;
+    use Pug, SCSS preprocessors;
+    work in the VS Code editor;
+    Git (local repository) is used to store the project;
 
 ### Soft Skills 
 __Ability to work in a team, attentiveness to details, the ability to listen and clearly express my thoughts__
